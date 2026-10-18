@@ -1,0 +1,34 @@
+# Java / Spring Boot
+target/
+.gradle/
+build/
+*.class
+
+# React
+node_modules/
+dist/
+.next/
+
+# Android
+*.apk
+*.aab
+*.iml
+local.properties
+.cxx/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
